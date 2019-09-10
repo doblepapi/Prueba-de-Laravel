@@ -1,0 +1,11 @@
+{
+    "git.ignoreLimitWarning": true,
+    "sqltools.connections": [
+        {
+            "database": "./database/database.sqlite",
+            "dialect": "SQLite",
+            "name": "prueba"
+        }
+    ],
+    "sqltools.useNodeRuntime": true
+}
